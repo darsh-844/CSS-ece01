@@ -1,0 +1,42 @@
+body{
+    align-content: center;
+    text-align: center;
+}
+.lo{
+     color: blueviolet;
+    background-color: burlywood;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    align-content: center;
+    border: 20px;
+    display: inline-block;
+}
+#lo1{
+    text-align: left;
+    border: double rgb(234, 229, 229);
+}
+#lo2{
+     color: rgb(113, 85, 103);
+    background-color: rgb(225, 149, 50);
+    text-align: right;
+    padding: 15px;
+    border: dashed rgb(21, 5, 5);
+    margin: 15px,30px,9px;
+}
+#lo3{
+     color: rgb(84, 171, 117);
+    background-color: rgb(188, 147, 92);
+    padding: 25px;
+    border: solid rgb(0, 255, 0);
+    margin: 15px,10px,7px;
+}   
+#lo4{
+     color: rgb(125, 226, 43);
+    background-color: rgb(135, 176, 222);
+    padding: 10px;
+    border: dotted rgb(102, 0, 255);
+    margin: 5px,10px,15px;
+}
