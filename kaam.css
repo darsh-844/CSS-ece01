@@ -9,7 +9,7 @@ body{
     height: 100px;
     width: 100px;
     padding: 5px;
-    margin: 5px;
+    margin: 5px left;
     align-content: center;
     border: 20px;
     display: inline-block;
