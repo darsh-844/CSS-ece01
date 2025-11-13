@@ -1,0 +1,43 @@
+.opp{
+    border: 5px solid #000000;
+    padding: 5px;
+    height: 200px;
+    width: 900px;
+}
+#op{
+    background-color: #7fffd4;
+}
+.pk{
+    background-color: #ffc0cd;
+}
+.oppp{
+    border: 5px solid #000000;
+    padding: 5px;
+    height: 350px;
+    width: 400px;
+}
+.box1{
+    margin: 40px,20px,30px;
+    display: inline-block;
+}
+#lo{
+    background-color: #ffc0cd;
+    align-content: center;
+    height: 250px;
+    width: 150px;
+    text-align: center;
+}
+#loo{
+    background-color: #7fffd4;
+    align-content: center;
+    height: 250px;
+    text-align: center;
+    width: 150px;
+}
+#looo{
+    background-color: #f0f844;
+    align-content: center;
+    text-align: center;
+    height: 250px;
+    width: 150px;
+}
